@@ -1,0 +1,11 @@
+@extends('form2')
+@section('title')
+home
+@endsection
+@section('cont')
+home111111
+@endsection
+@section('sidebar')
+  @parent
+  <p>hoooooooo</p>
+  @endsection

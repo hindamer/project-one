@@ -1,0 +1,10 @@
+@extends('form2')
+@section('title')
+contact
+@endsection
+@section('cont')
+contactreee
+@endsection
+@section('sidebar')
+  <p>kkkkkkkhjhhjjhh</p>
+  @endsection
